@@ -1,0 +1,9 @@
+body {
+color: black;
+}
+
+div {
+color: white;
+height: 100px;
+max-width: 100px;
+}
