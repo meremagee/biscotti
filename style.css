@@ -11,3 +11,7 @@ max-width: 100px;
 a {
 text-decoration: none;
 }
+
+a:hover {
+color: #48f0de;
+}
