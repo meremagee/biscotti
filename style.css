@@ -1,0 +1,17 @@
+body {
+color: black;
+}
+
+div {
+color: white;
+height: 100px;
+max-width: 100px;
+}
+
+a {
+text-decoration: none;
+}
+
+a:hover {
+color: #48f0de;
+}
